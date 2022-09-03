@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #111827;
+    font-family: 'Ubuntu';
+    color: aquamarine
+}
+#randpwd{
+    color: lightgreen;
+    
+}
+#gena{
+    
+    color: mediumseagreen
+}
+#never{
+   color: white 
+    
+}
+#button{
+    color: red
+}
+#generbutn{
+    background-color: wheat;
+    font-weight: bold;
+    color: goldenrod;
+    height: 40px;
+    border-radius: 5px;
+}
